@@ -1,0 +1,65 @@
+/* h1, h2 {
+  font-family: Lato;
+} */
+
+
+body, html {
+  text-align: center;
+  background-color: black;
+  color:white;
+}
+
+.TV-row {
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  width:100%;
+}
+
+.col1-text {
+  text-align:left; 
+}
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+p {
+  font-size:larger;
+  font-weight:400;
+  margin:1.75em 0 0.25em;
+}
+.col2-media {
+  width:100%;
+  background:transparent;
+}
+.video {
+  position: absolute; 
+  margin-top:5%;
+  right:23.75%;
+ 
+}
+hr {
+  color:rgb(78, 72, 72);
+  border: solid;
+}
+.download-row {
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  width:100%;
+}
+
+
+.watch-row {
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  width:100%;
+}
+.our-story-card-video {
+  position:absolute;
+  margin-top: 58px;
+  margin-bottom:45px;
+  width:16%;
+  right:28%;
+}
